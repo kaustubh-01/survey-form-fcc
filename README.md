@@ -26,7 +26,7 @@ This project is a responsive survey form created as part of the Responsive Web D
 [GitHub Repository](https://github.com/kaustubh-01/survey-form-fcc)
 
 ## Hosted Application
-Check out the live version of survey form here: (https://kaustubh-01.github.io/survey-form-fcc/)
+Check out the live version of survey form here: [Hosted Survey Form](https://kaustubh-01.github.io/survey-form-fcc/)
 
 ## Credits
 This project is part of the Free Code Camp curriculum. Special thanks to the Free Code Camp community for their resources and support.
